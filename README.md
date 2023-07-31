@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python, SQL, Spark, Big Data**
 
-- 📫 How to reach me **adiliobb@icloud.com**
+- 📫 How to reach me: **adiliobb@icloud.com**
 
 - 📄 Know about my experiences and formal education in my Linkedin Profile
 
