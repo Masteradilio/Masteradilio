@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **Python, SQL, Spark, Big Data**
 
-- 📫 How to reach me **www.linkedin.com/in/adiliofarias**
+- 📫 How to reach me **adiliobb@icloud.com**
 
-- 📄 Know about my experiences in my Linkedin Profile
+- 📄 Know about my experiences and formal education in my Linkedin Profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
