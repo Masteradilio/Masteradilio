@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **www.linkedin.com/in/adiliofarias**
 
-- 📄 Know about my experiences [In my Linkedin Profile](In my Linkedin Profile)
+- 📄 Know about my experiences in my Linkedin Profile
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
