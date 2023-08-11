@@ -11,6 +11,8 @@
 
 - 📫 How to reach me: **adiliobb@icloud.com**
 
+- 📄 I currently have the AWS Cloud Practition, AWS Architect Solutions Associate and Professional Google Data Analyst Certifications, and i'm studying for AWS Data Analytics Speciality Certification.
+
 - 📄 Know about my experiences and formal education in my Linkedin Profile
 
 <h3 align="left">Connect with me:</h3>
