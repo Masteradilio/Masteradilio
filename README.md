@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masteradilio&label=Profile%20views&color=0e75b6&style=flat" alt="masteradilio" /> </p>
 
-- 🌱 I’m currently studying **Formação Cientista de Dados da DSA, Google Advanced Data Analytics da Cousera, Data Engineer com GCP e faculdade de Inteligência ARtificial na Cruzeiro do Sul Vitrual**
+- 🌱 I’m currently studying **Formação Cientista de Dados at Data Science Academy, Google Advanced Data Analytics on Cousera, Data Engineer with GCP and Artificial Inteligence at Cruzeiro do Sul Vitrual University**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Masteradilio?tab=repositories](https://github.com/Masteradilio?tab=repositories)
 
