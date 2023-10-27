@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Masteradilio?tab=repositories](https://github.com/Masteradilio?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, Big Data an AI**
+- 💬 Ask me about **Python, SQL, Big Data, Data Science an AI**
 
 - 📫 How to reach me: **adiliobb@icloud.com**
 
