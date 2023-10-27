@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Adilio Farias</h1>
-<h3 align="center">A passionate Data Engineer/Data Scientist from Brazil</h3>
+<h3 align="center">An AI Engineer in formation from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masteradilio&label=Profile%20views&color=0e75b6&style=flat" alt="masteradilio" /> </p>
 
-- 🌱 I’m currently studying **Data Scientist Complete Training at Data Science Academy, Google Advanced Data Analytics on Cousera, Data Engineer with GCP and Artificial Inteligence at Cruzeiro do Sul Vitrual University**
+- 🌱 I’m currently studying **Data Scientist and AI Engineering Complete Trainings at Data Science Academy, Google Advanced Data Analytics on Cousera, Data Science Career Path and DS101 Certification at DataCamp and Artificial Inteligence at Cruzeiro do Sul Vitrual University**
+  
+- See my Lattes Curriculum at https://lattes.cnpq.br/8088416109319082
 
 - 👨‍💻 All of my projects are available at [https://github.com/Masteradilio?tab=repositories](https://github.com/Masteradilio?tab=repositories)
 
-- 💬 Ask me about **Python, SQL, Spark, Big Data**
+- 💬 Ask me about **Python, SQL, Big Data an AI**
 
 - 📫 How to reach me: **adiliobb@icloud.com**
 
