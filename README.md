@@ -1,28 +1,53 @@
-<h1 align="center">Hi 👋, I'm Adilio Farias</h1>
-<h3 align="center">An AI Engineer in formation from Brazil</h3>
+# Hi there, I'm Adilio 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=masteradilio&label=Profile%20views&color=0e75b6&style=flat" alt="masteradilio" /> </p>
+**Data & Artificial Intelligence Specialist**  
+*15+ years in Financial Services | 10 years in Retail Banking | 5+ years leading Tech, Data & AI Projects*
 
-- 🌱 I’m currently studying **Data Scientist and AI Engineering Complete Trainings at Data Science Academy, Google Advanced Data Analytics on Cousera, Data Science Career Path and DS101 Certification at DataCamp and Artificial Inteligence at Cruzeiro do Sul Vitrual University**
-  
-- See my Lattes Curriculum at https://lattes.cnpq.br/8088416109319082
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/Masteradilio?tab=repositories](https://github.com/Masteradilio?tab=repositories)
+### 🚀 About Me
 
-- 💬 Ask me about **Python, SQL, Big Data, Data Science an AI**
+I am a Data and Artificial Intelligence professional with extensive experience solving business problems, automating processes, and supporting executive decision-making in high-scale enterprise environments.
 
-- 📫 How to reach me: **adiliobb@icloud.com**
+- 🎓 Currently completing a **Master’s Degree in Artificial Intelligence** at *American Global Tech University* (Expected Dec 2026).
+- 🏆 Holds certifications including **AWS Certified Cloud Practitioner**, **AWS Certified Solutions Architect – Associate**, and **AWS Certified AI Practitioner**.
+- 🌐 Advanced English Proficiency (C1 Level — Fluent Business Communication).
+- 🎯 Seeking opportunities as an **AI Engineer** or **Senior Data Scientist**.
 
-- 📄 I currently have the AWS Certified Cloud Practitioner, AWS Certified Solutions Architect Associate and Professional Google Data Analyst Certifications. I'm studying for AWS Data Analytics Speciality Certification and Certified Data Scientist Associate at Datacamp.
+---
 
-- 📄 Know about my experiences and formal education in my Linkedin Profile
+### 💼 Key Impact & Accomplishments
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/adiliofarias/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adiliofarias/" height="30" width="40" /></a>
-</p>
+- **Fraud Prevention & Credit Risk:** Built & deployed Machine Learning and Deep Learning models for PIX transaction fraud detection and credit risk scoring.
+- **Process Automation:** Automated credit analysis and customer risk reassessment workflows.
+- **Generative AI & Agents:** Designed enterprise solutions using RAG, LLMs, and Autonomous AI Agents for smart document retrieval and decision support.
+- **Digital Banking Products:** Led engineering for AI chatbots, digital onboarding/account opening, and commercial credit products.
+- **MLOps & Data Pipelines:** Architected end-to-end data and MLOps pipelines covering model training, validation, monitoring, and production deployment.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=masteradilio&show_icons=true&locale=en&layout=compact" alt="masteradilio" /></p>
+### 🛠️ Tech Stack & Skills
+
+- **Languages:** Python | SQL
+- **Data & Big Data:** Spark | Data Engineering | Data Analysis | Data Science
+- **AI & GenAI:** Generative AI | LLMs | RAG | AI Agents | OpenAI | Anthropic Claude
+- **ML & Operations:** Machine Learning | MLOps | LLMOps | Docker | Git
+
+---
+
+### 🎓 Academic Background & Certifications
+
+- **Master's Degree in Artificial Intelligence** — American Global Tech University *(Dec 2026)*
+- **Postgraduate & Undergraduate Studies** — Big Data & Analytics, AI, Data Science, Machine Learning, AI Engineering, Project Management.
+- **Certifications**:
+  - AWS Certified Cloud Practitioner
+  - AWS Certified Solutions Architect – Associate
+  - AWS Certified AI Practitioner
+
+---
+
+### 📫 Connect with Me
+
+- 💼 **LinkedIn**: [linkedin.com/in/adilio](https://linkedin.com/in/adilio)
+- 📧 **Email**: [Contact Me](mailto:adiliobb@gmail.com)
+- 🐙 **GitHub**: [@adilio](https://github.com/Masteradilio)
