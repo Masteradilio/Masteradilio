@@ -48,6 +48,6 @@ I am a Data and Artificial Intelligence professional with extensive experience s
 
 ### 📫 Connect with Me
 
-- 💼 **LinkedIn**: [linkedin.com/in/adilio](https://linkedin.com/in/adilio)
+- 💼 **LinkedIn**: [linkedin.com/in/adilio](https://linkedin.com/in/adiliofarias/)
 - 📧 **Email**: [Contact Me](mailto:adiliobb@gmail.com)
 - 🐙 **GitHub**: [@adilio](https://github.com/Masteradilio)
